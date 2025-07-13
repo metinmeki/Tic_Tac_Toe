@@ -16,4 +16,4 @@ This is a simple Tic Tac Toe game built with C# and Windows Forms.
 
 ## License
 
-This project is open source and free to use.
+This project is open source and free to use
