@@ -1,7 +1,6 @@
 # Tic Tac Toe
 
-This is a simple Tic Tac Toe game built with C# and Windows Forms.
-
+This is a simple Tic Tac Toe game built with C# and Windows Forms
 ## How to Run
 
 - Open the project in Visual Studio or Visual Studio Code.
